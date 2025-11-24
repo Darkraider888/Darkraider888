@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Darkraider888
 - 👀 I’m interested in tech innovations, gaming, storytelling, dreaming, and many other things 
-- 🌱 I’m currently learning Python programming and creative writing.
+- 🌱 I’m currently learning Python, Java, C programming and creative writing.
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me. You can contact me by using my email.
 - ⚡ Fun fact: I can't remember my code.
