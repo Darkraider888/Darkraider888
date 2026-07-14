@@ -6,7 +6,7 @@
 
 # 🐉 DARKRAIDER888
 
-<img src="./assets/dragon-banner.png" width="100%" alt="Dragon Banner">
+
 
 <br>
 
