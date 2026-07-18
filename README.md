@@ -160,3 +160,467 @@ Fun Fact:
 # ⚡ QUOTE
 
 > **"It's not a bug, it's an undocumented feature."**
+
+<!-- ===================================================== -->
+<!--                  PART 2 STARTS HERE                   -->
+<!-- ===================================================== -->
+
+# 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 👨‍💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,php,mysql,mongodb,sqlite&perline=6"/>
+
+### ⚙️ Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask,tensorflow,docker,git,github&perline=7"/>
+
+### 💻 IDEs & Operating Systems
+
+<img src="https://skillicons.dev/icons?i=vscode,idea,linux,ubuntu,kali,windows,apple&perline=7"/>
+
+</div>
+
+---
+
+# ⚔️ Cybersecurity Toolkit
+
+<div align="center">
+
+| Security | Networking | Development |
+|----------|------------|-------------|
+| Burp Suite | Wireshark | Git |
+| Nmap | Cisco Packet Tracer | Docker |
+| Nessus | VMware | Linux |
+| Metasploit | VirtualBox | NetBeans |
+
+</div>
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Darkraider888&show_icons=true&theme=radical&hide_border=true&border_radius=12"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkraider888&layout=compact&theme=radical&hide_border=true&border_radius=12"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Darkraider888&theme=radical&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Darkraider888&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=4"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Darkraider888&theme=redical&hide_border=true"/>
+
+</div>
+
+---
+
+# 📅 Contribution Calendar
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darkraider888&theme=radical"/>
+
+</div>
+
+---
+
+# 📊 GitHub Summary Cards
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darkraider888&theme=radical"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Darkraider888&theme=radical"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darkraider888&theme=radical"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Darkraider888&theme=radical&utcOffset=6"/>
+
+</div>
+
+---
+
+# 🚀 Current Focus
+
+```text
+███████████████████████████████████████
+
+✓ Advanced Java
+
+███████████████████████████████
+
+✓ Machine Learning
+
+██████████████████████████████
+
+✓ Spring Boot
+
+████████████████████████████
+
+✓ Cloud Computing
+
+██████████████████████████
+
+✓ Data Mining
+
+█████████████████████████
+
+✓ Advanced Networking
+```
+
+---
+
+# 🎯 2026 Goals
+
+```text
+☑ Master Advanced Java
+
+☑ Learn Spring Boot
+
+☑ Become proficient in Machine Learning
+
+☑ Build Full Stack Applications
+
+☑ Publish More Research Papers
+
+☑ Contribute to Open Source
+
+☑ Strengthen Cybersecurity Skills
+
+☑ Build an AI-powered SaaS Project
+
+☑ Land a Software Engineering Internship
+
+☑ Graduate with Strong Academic Results
+```
+
+---
+
+# 💡 Currently Exploring
+
+- 🤖 Artificial Intelligence
+- 🧠 Deep Learning
+- ☁️ Cloud Computing
+- 🔒 Cybersecurity
+- 🌐 Networking
+- ⚙️ Software Engineering
+- 📊 Data Mining
+
+---
+
+# 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Darkraider888&label=Visitors&color=E50914&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+> **Enable this after adding the GitHub Action in Part 3.**
+
+```md
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Darkraider888/Darkraider888/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+```
+
+<!-- ===================================================== -->
+<!--                    FEATURED PROJECTS                  -->
+<!-- ===================================================== -->
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🧠 **ORIVO Emotion Detector** | AI-powered emotion detection using deep learning | Python • TensorFlow • Flask |
+| 💻 **JavaFX Billing Management System** | Desktop billing application with authentication and database | Java • JavaFX • MySQL |
+| 🌐 **Learning Bio Website** | Personal learning portfolio | HTML • CSS • JavaScript |
+| 📡 **6G Research** | Research on future wireless communication in Bangladesh | Research |
+| 🔒 **Networking & Security Labs** | Pen-testing and networking practice | Kali • Nmap • Wireshark |
+| 🤖 **AI & ML Experiments** | Machine learning algorithms and notebooks | Python |
+
+</div>
+
+---
+
+## ⭐ Repository Highlights
+
+<div align="center">
+
+<a href="https://github.com/Darkraider888/Orivo-Emotion-Dectector">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkraider888&repo=Orivo-Emotion-Dectector&theme=radical&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Darkraider888/mehedi-hasan-learning-bio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkraider888&repo=mehedi-hasan-learning-bio&theme=radical&hide_border=true"/>
+</a>
+
+</div>
+
+---
+
+# 📚 Research & Publications
+
+## 📄 Publications
+
+### 🌡️ Heat Waves in Bangladesh
+
+**Heat Waves in Bangladesh: Understanding the Threats and Finding Solutions**
+
+Published in:
+
+> Asia Pacific Journal of Energy and Environment
+
+---
+
+### 📡 Current Research
+
+- 6G Communication
+- Artificial Intelligence
+- Machine Learning
+- Networking
+- Software Engineering
+
+---
+
+# 🏅 Certifications
+
+<div align="center">
+
+| Certification | Status |
+|---------------|--------|
+| 🛡️ Applied Penetration Testing Engineer (APTC) | ✅ |
+| 🐧 Red Hat Linux | ✅ |
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+```text
+Java ████████████████████████████
+
+Spring Boot ████████████████████
+
+Machine Learning ███████████████
+
+Cloud Computing ███████████████
+
+Data Mining ███████████████████
+
+Networking ████████████████████
+```
+
+---
+
+# 📫 Contact
+
+<div align="center">
+
+<a href="mailto:hasanmehidi2016@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-E50914?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mehedi-hasan-siddique-0a19643a1/">
+<img src="https://img.shields.io/badge/LinkedIn-E50914?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://mehedi-hasan-learning-bio.lovable.app/">
+<img src="https://img.shields.io/badge/Portfolio-E50914?style=for-the-badge"/>
+</a>
+
+<a href="https://scholar.google.com/citations?user=8WcSaLIAAAAJ&hl=en">
+<img src="https://img.shields.io/badge/Scholar-E50914?style=for-the-badge"/>
+</a>
+
+<a href="https://orcid.org/0009-0000-7124-7041">
+<img src="https://img.shields.io/badge/ORCID-E50914?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+# ⚡ Random Dev Quote
+
+> "First, solve the problem. Then, write the code."
+
+---
+
+# 💭 Fun Fact
+
+```text
+⚡ I can't remember my code...
+
+But somehow...
+
+I always know where the bug is.
+```
+
+---
+
+# 🐍 Snake Animation
+
+Create this file:
+
+```
+.github/workflows/snake.yml
+```
+
+Paste:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: Platane/snk@v3
+
+        with:
+          github_user_name: Darkraider888
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+
+        with:
+          target_branch: output
+          build_dir: dist
+
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then display it with:
+
+```html
+<p align="center">
+<img src="https://raw.githubusercontent.com/Darkraider888/Darkraider888/output/github-contribution-grid-snake-dark.svg">
+</p>
+```
+
+---
+
+# 📂 Repository Structure
+
+```text
+Darkraider888
+│
+├── README.md
+├── assets
+│   ├── dragon-banner.png
+│   ├── dragon-logo.png
+│   └── terminal.svg
+│
+└── .github
+    └── workflows
+         └── snake.yml
+```
+
+---
+
+# 💀 Developer Philosophy
+
+```text
+while(alive){
+
+    Learn();
+
+    Build();
+
+    Break();
+
+    Fix();
+
+    Repeat();
+
+}
+```
+
+---
+
+# 🎯 Future Goals
+
+- 🤖 Become an AI Engineer
+- ☁️ Learn Cloud Technologies
+- 🛡️ Improve Cybersecurity Skills
+- 🌍 Contribute to Open Source
+- 📚 Publish More Research Papers
+- 💼 Join a Global Tech Company
+- 🚀 Build Products That Matter
+
+---
+
+<div align="center">
+
+# 🐉 DARKRAIDER888
+
+### Computer Science & Engineering Student
+
+**Artificial Intelligence • Cybersecurity • Networking**
+
+⭐ Thanks for visiting my profile ⭐
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E50914&height=120&section=footer"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Keep Learning • Keep Building • Keep Improving ⚡
+
+</div>
