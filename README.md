@@ -200,18 +200,6 @@ Fun Fact:
 
 ---
 
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Darkraider888&show_icons=true&theme=radical&hide_border=true&border_radius=12"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkraider888&layout=compact&theme=radical&hide_border=true&border_radius=12"/>
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
@@ -222,15 +210,6 @@ Fun Fact:
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Darkraider888&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=4"/>
-
-</div>
-
----
 
 # 📊 Contribution Graph
 
@@ -242,15 +221,6 @@ Fun Fact:
 
 ---
 
-# 📅 Contribution Calendar
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darkraider888&theme=radical"/>
-
-</div>
-
----
 
 # 📊 GitHub Summary Cards
 
@@ -381,21 +351,7 @@ Fun Fact:
 
 ---
 
-## ⭐ Repository Highlights
 
-<div align="center">
-
-<a href="https://github.com/Darkraider888/Orivo-Emotion-Dectector">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkraider888&repo=Orivo-Emotion-Dectector&theme=radical&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Darkraider888/mehedi-hasan-learning-bio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkraider888&repo=mehedi-hasan-learning-bio&theme=radical&hide_border=true"/>
-</a>
-
-</div>
-
----
 
 # 📚 Research & Publications
 
