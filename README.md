@@ -221,25 +221,6 @@ Fun Fact:
 
 ---
 
-
-# 📊 GitHub Summary Cards
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darkraider888&theme=radical"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Darkraider888&theme=radical"/>
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darkraider888&theme=radical"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Darkraider888&theme=radical&utcOffset=6"/>
-
-</div>
-
----
-
 # 🚀 Current Focus
 
 ```text
@@ -318,17 +299,6 @@ Fun Fact:
 
 ---
 
-# 🐍 Contribution Snake
-
-> **Enable this after adding the GitHub Action in Part 3.**
-
-```md
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Darkraider888/Darkraider888/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-```
 
 <!-- ===================================================== -->
 <!--                    FEATURED PROJECTS                  -->
