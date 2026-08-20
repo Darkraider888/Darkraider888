@@ -230,6 +230,8 @@ Fun Fact:
 
 </div>
 
+--- 
+
 # 🚀 Current Focus
 
 ```text
