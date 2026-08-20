@@ -242,8 +242,6 @@ Fun Fact:
     alt="GitHub Contribution Snake"
   />
 
-</picture>
-
 </div>
 --- 
 
