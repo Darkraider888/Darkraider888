@@ -211,6 +211,7 @@ Fun Fact:
 ---
 
 
+
 # 📊 Contribution Graph
 
 <div align="center">
@@ -220,6 +221,14 @@ Fun Fact:
 </div>
 
 ---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Darkraider888/Darkraider888/output/github-contribution-grid-snake.svg" />
+
+</div>
 
 # 🚀 Current Focus
 
