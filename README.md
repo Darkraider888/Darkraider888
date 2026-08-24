@@ -198,19 +198,6 @@ Fun Fact:
 
 </div>
 
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Darkraider888&theme=radical&hide_border=true"/>
-
-</div>
-
----
-
-
 
 # 📊 Contribution Graph
 
@@ -444,23 +431,6 @@ Networking ████████████████████
 But somehow...
 
 I always know where the bug is.
-```
-
----
-# 📂 Repository Structure
-
-```text
-Darkraider888
-│
-├── README.md
-├── assets
-│   ├── dragon-banner.png
-│   ├── dragon-logo.png
-│   └── terminal.svg
-│
-└── .github
-    └── workflows
-         └── snake.yml
 ```
 
 ---
