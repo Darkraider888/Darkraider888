@@ -310,7 +310,7 @@ Cloudinary &nbsp;&nbsp; • &nbsp;&nbsp; Aiven &nbsp;&nbsp; • &nbsp;&nbsp; Ren
 <img src="https://skillicons.dev/icons?i=maven,docker,git,github&perline=4" />
 
 </div>
----
+
 
 # 🚀 Featured Projects
 
@@ -482,64 +482,11 @@ Embedded Systems         ██████████████████�
 
 <div align="center">
 
-### Learn → Build → Break → Understand → Improve
-
 </div>
 
 ---
 
-# 🧩 My Development Workflow
 
-```text
-Idea
- │
- ▼
-Research
- │
- ▼
-Design
- │
- ▼
-Code
- │
- ├── Java / Python / C
- │
- ├── HTML / CSS / JavaScript
- │
- └── Assembly / Embedded
- │
- ▼
-Database
- │
- ├── MySQL
- │
- ├── MongoDB
- │
- └── SQLite
- │
- ▼
-Test & Debug
- │
- ▼
-Git / GitHub
- │
- ▼
-Docker
- │
- ▼
-Cloud Deployment
- │
- ├── Render
- │
- ├── Aiven
- │
- └── Cloudinary
- │
- ▼
-Improve
-```
-
----
 
 # 🔥 GitHub Streak
 
