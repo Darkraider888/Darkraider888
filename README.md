@@ -137,7 +137,32 @@ Cloud
         └── Cloudinary  → Image Storage
 ```
 ---
+## 🚀 Current Project
 
+### 🐾 Desktop Pet
+
+Interactive Windows desktop companion built with **C# and WPF**.
+
+- Multiple animated characters
+- Drag, idle, sleep & wake behaviors
+- Character-specific interactions
+- Persistent settings
+- Automated tests
+- Portable Windows release
+
+
+**Tech:** 
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
+
+</div>
+
+[View Repository](https://github.com/Darkraider888/DesktopPet-WPF)🔗  • [Download v0.9 Preview](https://github.com/Darkraider888/DesktopPet-WPF/releases/tag/v0.9.0-preview)📦 
+
+---
 # ⚔️ Tech Arsenal
 
 <div align="center">
@@ -148,7 +173,7 @@ Cloud
 
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,php&perline=8" />
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logoColor=white" height="32"/>
 
@@ -166,8 +191,7 @@ Cloud
 
 <img src="https://skillicons.dev/icons?i=spring,react,nodejs,flask,tensorflow&perline=5" />
 
-<br><br>
-
+<br>
 <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="32"/>
 <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="32"/>
 <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" height="32"/>
@@ -196,7 +220,7 @@ Cloud
 
 ## ☁️ Cloud & Deployment
 
-<br><br>
+<br>
 
 <img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="48" height="48" title="Cloudinary"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -204,7 +228,7 @@ Cloud
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/render/FFFFFF" width="48" height="48" title="Render"/>
 
-<br><br>
+<br>
 
 <sub>
 Cloudinary &nbsp;&nbsp; • &nbsp;&nbsp; Aiven &nbsp;&nbsp; • &nbsp;&nbsp; Render
@@ -224,7 +248,7 @@ Cloudinary &nbsp;&nbsp; • &nbsp;&nbsp; Aiven &nbsp;&nbsp; • &nbsp;&nbsp; Ren
 
 <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,docker&perline=5" />
 
-<br><br>
+<br>
 
 <img src="https://cdn.simpleicons.org/apachenetbeanside/1B6AC6" width="46" height="46" title="Apache NetBeans"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -232,7 +256,7 @@ Cloudinary &nbsp;&nbsp; • &nbsp;&nbsp; Aiven &nbsp;&nbsp; • &nbsp;&nbsp; Ren
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/mingww64/FFFFFF" width="46" height="46" title="MinGW-w64"/>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Scene%20Builder-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="32"/>
 
@@ -250,7 +274,7 @@ Cloudinary &nbsp;&nbsp; • &nbsp;&nbsp; Aiven &nbsp;&nbsp; • &nbsp;&nbsp; Ren
 
 <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali&perline=4" />
 
-<br><br>
+<br>
 
 <img src="https://cdn.simpleicons.org/virtualbox/2F61B4" width="48" height="48" title="Oracle VirtualBox"/>
 
@@ -270,7 +294,7 @@ Cloudinary &nbsp;&nbsp; • &nbsp;&nbsp; Aiven &nbsp;&nbsp; • &nbsp;&nbsp; Ren
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="52" height="52" title="Wireshark"/>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Cisco%20IOS-CLI-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="32"/>
 
@@ -290,8 +314,7 @@ Cloudinary &nbsp;&nbsp; • &nbsp;&nbsp; Aiven &nbsp;&nbsp; • &nbsp;&nbsp; Ren
 
 <img src="https://skillicons.dev/icons?i=c,arduino&perline=2" />
 
-<br><br>
-
+<br>
 <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge" height="32"/>
 <img src="https://img.shields.io/badge/Embedded%20Systems-111111?style=for-the-badge&logo=arduino&logoColor=white" height="32"/>
 
